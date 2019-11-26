@@ -4,11 +4,11 @@
 
 
 // MASUKAN UID ANDA !!
-$uid    = "68019867";
+$uid    = "xxxxxxxx";
 
 
 // MASUKAN NAMA CAPING ANDA !!
-$nama   = "SANTUY";
+$nama   = "xxxxxxxx";
 
 ?>
 
